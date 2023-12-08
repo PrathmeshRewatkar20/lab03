@@ -1,0 +1,17 @@
+{
+    "name": "company/utility",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Company\\Utility\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PrathmeshRewatkar20",
+            "email": "prathmeshrewatkar2011@gmail.com"
+        }
+    ],
+    "require": {}
+}
